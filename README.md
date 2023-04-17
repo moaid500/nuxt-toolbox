@@ -3,6 +3,8 @@
 
 This is a [NuxtJS](https://nuxtjs.org/) v2 project. It is a reference on how to integrate commonly used features within Netlify for Nuxt.js.
 
+example page done with it : 
+[مسلسل طائر الرفراف](https://x.esheeq.watch/video/series/muslsl-yali-capkini-3isk-e3evsh-6zi4/) 
 
 ## Table of Contents:
 
